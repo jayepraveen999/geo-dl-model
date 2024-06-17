@@ -1,0 +1,23 @@
+# ignore data dir
+data
+
+# ignore test dir
+test
+
+# ignore python cache
+__pycache__
+utils/__pycache__
+
+.venv
+
+.vscode
+
+data
+
+outputs
+
+.DS_Store
+
+weights_and_logs
+
+bpm_weight_file
