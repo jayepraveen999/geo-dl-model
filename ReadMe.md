@@ -17,7 +17,8 @@
 
 ## Download Data
 
-- create a `data` folder in the project dir and download all necessary data files from [google drive] (https://drive.google.com/drive/folders/1J7VqqCQds-x5ulbs3LTF7SPhC3Cy9BuZ?usp=drive_link)
+- Details on the whole data preparation and generation is available at [geo-dl-data](https://github.com/jayepraveen999/geo-dl-data)
+- create a `data` folder in the project dir and download all necessary data files from [google drive](https://drive.google.com/drive/folders/1J7VqqCQds-x5ulbs3LTF7SPhC3Cy9BuZ?usp=drive_link)
 - Incase you change folder names or file names, please adapt to those names in the code.
 
 ## Running the Project
